@@ -196,7 +196,7 @@ p {
   color: var(--primary-color);
 }
 .hero .row .col:first-child p {
-  margin-top: 3rem;
+  margin-top: 1.5rem;
   width: 80%;
 }
 .hero .row .col:first-child p span {
@@ -245,7 +245,7 @@ p {
     display: none;
   }
   .hero .row .col .img2 {
-    height: 25rem;
+    height: 20rem;
     display: grid;
     margin-bottom: 3.5rem;
   }
@@ -260,6 +260,9 @@ p {
   }
   .hero .row .col:first-child p {
     width: 100%;
+  }
+   .hero {
+    height: calc(100vh - 10.3rem);
   }
 }
 /* ========== Icons =========== */
