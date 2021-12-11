@@ -203,8 +203,8 @@ p {
   font-weight: 600;
 }
 .hero .row .col:first-child .btn {
-  margin-top: 3.5rem;
-  /* padding: 1.4rem 5rem; */
+  margin-top: 1.5rem;
+  
 }
 .hero .row .col .img2 {
   display: none;
